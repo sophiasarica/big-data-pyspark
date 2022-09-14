@@ -22,5 +22,5 @@ For example, City's utility systems such as sewer, water, electricity, or struct
 
 4. Query Processing is another analysis phase that retrieves data from databases using some commands. Data querying is not always providing complete analysis and data. The relationship between data tables helps organize data and create data models.
 
-5. Making data-driven decisions is significant for business.
+5. Making data-driven decisions is significant for business.Therefore analysis results should be carefully interpreted and used extra information if needed. 
 
