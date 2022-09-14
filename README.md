@@ -20,3 +20,7 @@ For example, City's utility systems such as sewer, water, electricity, or struct
 
 3. The third phase is data integration, aggregation, and representation. The purpose of integration and aggregation is to collect and express raw data in a summary form for analysis from different data sources. The data can be presented in many ways with many visual tools. However, graphs and Charts are the most common tools for simply displaying the data to make it more readable to people. 
 
+4. Query Processing is another analysis phase that retrieves data from databases using some commands. Data querying is not always providing complete analysis and data. The relationship between data tables helps organize data and create data models.
+
+5. Making data-driven decisions is significant for business.
+
