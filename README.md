@@ -12,3 +12,11 @@ For example, City's utility systems such as sewer, water, electricity, or struct
 - **Value:** Data has value if you can turn it into meaningful results. 
 
 
+## Phases of Big Data Analysis
+
+- 1. The first process is collecting valuable data from different sources. Then, apply the suitable filters to the generated data to obtain meaningful data. 
+
+- 2. The Second process of handling big data is extraction and cleaning. Pulling required or requested data from the system's sources gives structured information to start your analysis. Cleaning is an initial part of the analysis and includes removing irrelevant data, deduplicates, fixing missing data, validating data, etc. 
+
+- 3. The third phase is data integration, aggregation, and representation. The purpose of integration and aggregation is to collect and express raw data in a summary form for analysis from different data sources. The data can be presented in many ways with many visual tools. However, graphs and Charts are the most common tools for simply displaying the data to make it more readable to people. 
+
