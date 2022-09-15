@@ -2,7 +2,7 @@
 Big data is large enough not to handle or manipulate or too complex to process with the tools easily. 
 For example, City's utility systems such as sewer, water, electricity, or structures are getting a lot of information daily and are hard to analyze.
 
-# DATA603-Fall2022-Lecture 2-Intro2BigData (1)
+DATA603-Fall2022-Lecture 2-Intro2BigData (1)
 
 
 
@@ -15,7 +15,7 @@ For example, City's utility systems such as sewer, water, electricity, or struct
 - **Veracity:**  Quality and reliability of data is important as having a data 
 - **Value:** Data has value if you can turn it into meaningful results. 
 
-# https://www.sydle.com/blog/big-data-definition-importance-and-types-614b791388e600016afa7fc3/
+https://www.sydle.com/blog/big-data-definition-importance-and-types-614b791388e600016afa7fc3/
 
 
 ## Phases of Big Data Analysis
@@ -30,8 +30,8 @@ For example, City's utility systems such as sewer, water, electricity, or struct
 
 5. Making data-driven decisions is significant for business.Therefore analysis results should be carefully interpreted and used extra information if needed. 
 
- # https://www.datapine.com/blog/data-interpretation-methods-benefits-problems/
- # https://home.adelphi.edu/~siegfried/cs170/170l1.pdf
- # https://www.ibm.com/docs/da/tnpm/1.4.2?topic=data-aggregation
- # https://docs.holistics.io/docs/data-model
+  https://www.datapine.com/blog/data-interpretation-methods-benefits-problems/
+  https://home.adelphi.edu/~siegfried/cs170/170l1.pdf
+  https://www.ibm.com/docs/da/tnpm/1.4.2?topic=data-aggregation
+  https://docs.holistics.io/docs/data-model
 
