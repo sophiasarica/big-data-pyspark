@@ -56,6 +56,10 @@ Dealing with time is the most challenging part of analyzing data regarding a que
 
 ***Privacy***
 
+The other problem we are facing with growing big data is privacy. Personal information can use or share inappropriately from multiple sources causing substantial privacy concerns. 
+
 ***Human Collaboration***
+
+Today we still need human contributions to help computer systems analyze big data. Computers can not detect some errors, uncertainty, misleading, and conflicts as humans; hence human expertise and domain knowledge still play a critical role in today's computer systems. 
 
 https://cra.org/ccc/wp-content/uploads/sites/2/2015/05/bigdatawhitepaper.pdf
