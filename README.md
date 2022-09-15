@@ -35,6 +35,24 @@ For example, City's utility systems such as sewer, water, electricity, or struct
   https://home.adelphi.edu/~siegfried/cs170/170l1.pdf
 
   https://www.ibm.com/docs/da/tnpm/1.4.2?topic=data-aggregation
-  
+
   https://docs.holistics.io/docs/data-model
 
+
+## Challenges in Big Data analysis
+
+**Heterogeneity and Incompleteness** 
+Heterogeneity refers to a wide variety of data, which is not practical for computer systems. So, data needs to be well structured before starting any analysis. On the other hand, incompleteness points to missing data that is not easy to handle. Heterogeneity and incompleteness can have a significant effect on the data analysis results. 
+
+**Scale**
+Every day, data volume increases incredibly. Unfortunately, traditional computer storing systems cannot cope with data growth succefully. Therefore, we need more efficient and effective scaling of big data systems. 
+
+**Timeliness**
+Dealing with time is the most challenging part of analyzing data regarding a query or search problems. Even more difficult if the query or search is required in real-time from streaming data sources. In this kind of situations, the result of the analysis is required immediately. In this cases the results may not be complete and satisfactory. 
+
+
+**Privacy**
+
+**Human Collaboration**
+
+https://cra.org/ccc/wp-content/uploads/sites/2/2015/05/bigdatawhitepaper.pdf
