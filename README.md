@@ -31,7 +31,10 @@ For example, City's utility systems such as sewer, water, electricity, or struct
 5. Making data-driven decisions is significant for business.Therefore analysis results should be carefully interpreted and used extra information if needed. 
 
   https://www.datapine.com/blog/data-interpretation-methods-benefits-problems/
+
   https://home.adelphi.edu/~siegfried/cs170/170l1.pdf
+
   https://www.ibm.com/docs/da/tnpm/1.4.2?topic=data-aggregation
+  
   https://docs.holistics.io/docs/data-model
 
