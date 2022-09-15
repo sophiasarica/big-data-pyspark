@@ -45,7 +45,7 @@ For example, City's utility systems such as sewer, water, electricity, or struct
 
 Heterogeneity refers to a wide variety of data, which is not practical for computer systems. So, data needs to be well structured before starting any analysis. On the other hand, incompleteness points to missing data that is not easy to handle. Heterogeneity and incompleteness can have a significant effect on the data analysis results. 
 
-**Scale**
+***Scale***
 
 Every day, data volume increases incredibly. Unfortunately, traditional computer storing systems cannot cope with data growth succefully. Therefore, we need more efficient and effective scaling of big data systems. 
 
